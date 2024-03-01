@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="15e32c8a-96ff-43a1-b69c-9feeeafd718b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="graalvm-jdk-17" />
+        <option name="workspaceImportForciblyTurnedOn" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="1qtduehmdxqgFI8Eq69gFewQto9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.NewsletterSenderTest.constructorAssignsDatabase.executor": "Debug",
+    "JUnit.NewsletterSenderTest.executor": "Run",
+    "JUnit.NewsletterSenderTest.test_sendNewsletter_success.executor": "Run",
+    "Maven.DifferentTestDoubles [clean].executor": "Run",
+    "Maven.DifferentTestDoubles [compile].executor": "Run",
+    "Maven.DifferentTestDoubles [install].executor": "Run",
+    "Maven.DifferentTestDoubles [package].executor": "Run",
+    "Maven.DifferentTestDoubles [site].executor": "Run",
+    "Maven.DifferentTestDoubles [test].executor": "Run",
+    "Maven.DifferentTestDoubles [validate].executor": "Run",
+    "Maven.DifferentTestDoubles [verify].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.NewsletterSenderTest">
+    <configuration name="NewsletterSenderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DifferentTestDoubles" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8 (2)" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NewsletterSenderTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewsletterSenderTest.constructorAssignsDatabase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DifferentTestDoubles" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NewsletterSenderTest" />
+      <option name="METHOD_NAME" value="constructorAssignsDatabase" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewsletterSenderTest.spyExample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DifferentTestDoubles" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NewsletterSenderTest" />
+      <option name="METHOD_NAME" value="spyExample" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewsletterSenderTest.test_sendNewsletter_success" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DifferentTestDoubles" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NewsletterSenderTest" />
+      <option name="METHOD_NAME" value="test_sendNewsletter_success" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewsletterSenderTest.zeroSubscribersThrown" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DifferentTestDoubles" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NewsletterSenderTest" />
+      <option name="METHOD_NAME" value="zeroSubscribersThrown" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.NewsletterSenderTest.test_sendNewsletter_success" />
+      <item itemvalue="JUnit.NewsletterSenderTest" />
+      <item itemvalue="JUnit.NewsletterSenderTest.constructorAssignsDatabase" />
+      <item itemvalue="JUnit.NewsletterSenderTest.spyExample" />
+      <item itemvalue="JUnit.NewsletterSenderTest.zeroSubscribersThrown" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.NewsletterSenderTest" />
+        <item itemvalue="JUnit.NewsletterSenderTest.test_sendNewsletter_success" />
+        <item itemvalue="JUnit.NewsletterSenderTest.constructorAssignsDatabase" />
+        <item itemvalue="JUnit.NewsletterSenderTest.zeroSubscribersThrown" />
+        <item itemvalue="JUnit.NewsletterSenderTest.spyExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_402-corretto-1.8.0_402-4caba194b151-ae57be32" />
+        <option value="jdk-17.0.10-graalvm-jdk-17.0.10-3183f394aec4-6e2c94c7" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15e32c8a-96ff-43a1-b69c-9feeeafd718b" name="Default Changelist" comment="" />
+      <created>1617903044524</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617903044524</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Different Test Doubles source code">
+      <created>1618131652019</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1618131652019</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Different Test Doubles source code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Different Test Doubles source code" />
+  </component>
+</project>

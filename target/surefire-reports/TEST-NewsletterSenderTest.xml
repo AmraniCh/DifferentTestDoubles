@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="NewsletterSenderTest" time="0.105" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\AmraniCh\Desktop\IdeaProjects\DifferentTestDoubles\target\test-classes;C:\Users\AmraniCh\Desktop\IdeaProjects\DifferentTestDoubles\target\classes;C:\Users\AmraniCh\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\AmraniCh\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\AmraniCh\.m2\repository\org\mockito\mockito-all\2.0.2-beta\mockito-all-2.0.2-beta.jar;"/>
+    <property name="java.vm.vendor" value="Amazon.com Inc."/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://aws.amazon.com/corretto/"/>
+    <property name="user.timezone" value="Africa/Casablanca"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Users\AmraniCh\.jdks\corretto-1.8.0_402\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\AmraniCh\AppData\Local\Temp\surefire1272324532018370151\surefirebooter-20240229230120203_3.jar C:\Users\AmraniCh\AppData\Local\Temp\surefire1272324532018370151 2024-02-29T23-01-19_924-jvmRun1 surefire-20240229230120203_1tmp surefire_0-20240229230120203_2tmp"/>
+    <property name="surefire.test.class.path" value="C:\Users\AmraniCh\Desktop\IdeaProjects\DifferentTestDoubles\target\test-classes;C:\Users\AmraniCh\Desktop\IdeaProjects\DifferentTestDoubles\target\classes;C:\Users\AmraniCh\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\AmraniCh\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\AmraniCh\.m2\repository\org\mockito\mockito-all\2.0.2-beta\mockito-all-2.0.2-beta.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\AmraniCh"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="C:\Users\AmraniCh\.jdks\corretto-1.8.0_402\jre"/>
+    <property name="basedir" value="C:\Users\AmraniCh\Desktop\IdeaProjects\DifferentTestDoubles"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\AmraniCh\AppData\Local\Temp\surefire1272324532018370151\surefirebooter-20240229230120203_3.jar"/>
+    <property name="sun.boot.class.path" value="C:\Users\AmraniCh\.jdks\corretto-1.8.0_402\jre\lib\resources.jar;C:\Users\AmraniCh\.jdks\corretto-1.8.0_402\jre\lib\rt.jar;C:\Users\AmraniCh\.jdks\corretto-1.8.0_402\jre\lib\sunrsasign.jar;C:\Users\AmraniCh\.jdks\corretto-1.8.0_402\jre\lib\jsse.jar;C:\Users\AmraniCh\.jdks\corretto-1.8.0_402\jre\lib\jce.jar;C:\Users\AmraniCh\.jdks\corretto-1.8.0_402\jre\lib\charsets.jar;C:\Users\AmraniCh\.jdks\corretto-1.8.0_402\jre\lib\jfr.jar;C:\Users\AmraniCh\.jdks\corretto-1.8.0_402\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_402-b08"/>
+    <property name="user.name" value="AmraniCh"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="C:\Users\AmraniCh\.jdks\corretto-1.8.0_402\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\AmraniCh\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/corretto/corretto-8/issues/"/>
+    <property name="java.io.tmpdir" value="C:\Users\AmraniCh\AppData\Local\Temp\"/>
+    <property name="idea.version" value="2023.3.4"/>
+    <property name="java.version" value="1.8.0_402"/>
+    <property name="user.dir" value="C:\Users\AmraniCh\Desktop\IdeaProjects\DifferentTestDoubles"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Users\AmraniCh\.jdks\corretto-1.8.0_402\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files\Microsoft VS Code\bin;C:\laragon\bin;C:\laragon\bin\apache\httpd-2.4.54-win64-VS16\bin;C:\laragon\bin\composer;C:\laragon\bin\git\bin;C:\laragon\bin\git\cmd;C:\laragon\bin\git\mingw64\bin;C:\laragon\bin\git\usr\bin;C:\laragon\bin\laragon\utils;C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin;C:\laragon\bin\nginx\nginx-1.22.0;C:\laragon\bin\ngrok;C:\laragon\bin\nodejs\node-v18;C:\laragon\bin\notepad++;C:\laragon\bin\php\php-8.0.30-nts-Win32-vs16-x64;C:\laragon\bin\python\python-3.10;C:\laragon\bin\python\python-3.10\Scripts;C:\laragon\bin\redis\redis-x64-5.0.14.1;C:\laragon\bin\telnet;C:\laragon\usr\bin;C:\Users\AmraniCh\AppData\Local\Yarn\config\global\node_modules\.bin;C:\Users\AmraniCh\AppData\Roaming\Composer\vendor\bin;C:\Users\AmraniCh\AppData\Roaming\npm;C:\Users\AmraniCh\AppData\Local\Microsoft\WindowsApps;C:\Users\AmraniCh\AppData\Local\atom\bin;C:\Users\AmraniCh\AppData\Local\GitHubDesktop\bin;C:\Program Files\JetBrains\PhpStorm 2023.2.2\bin;;C:\Users\AmraniCh\AppData\Local\Programs\oh-my-posh\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.3.4\bin;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Amazon.com Inc."/>
+    <property name="java.vm.version" value="25.402-b08"/>
+    <property name="java.specification.maintenance.version" value="5"/>
+    <property name="java.ext.dirs" value="C:\Users\AmraniCh\.jdks\corretto-1.8.0_402\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="constructorAssignsDatabase" classname="NewsletterSenderTest" time="0.074"/>
+</testsuite>

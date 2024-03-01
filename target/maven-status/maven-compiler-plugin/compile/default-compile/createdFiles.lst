@@ -1,0 +1,4 @@
+ZeroSubscribersException.class
+NewsletterSender.class
+MessagingEngine.class
+SubscribersDatabase.class
